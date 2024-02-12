@@ -1,3 +1,3 @@
 git add .
-git commit -m "Correcting min max date range."
+git commit -m "Last place update"
 git push
