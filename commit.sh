@@ -1,3 +1,3 @@
 git add .
-git commit -m "Last place update"
+git commit -m "Project update"
 git push
